@@ -1,12 +1,12 @@
 Shelico – A Safe Space for Women’s Voice and Support
 Shelico – A digital platform for women to access health education, support, and a community where they can speak freely, ask questions, and find help without judgment.
 
-1. Introduction
+1. Introduction:
 In many communities, women’s health topics remain surrounded by misinformation, stigma, and lack of access to support.
 Shelico is built to challenge that. It’s a web-based platform that allows women to bust myths, ask sensitive health questions,
 find verified helpline contacts, and share real, personal health stories—all in one safe and supportive environment.
 
-2. Project Description
+2. Project Description:
 What Does the Application Do?
 Shelico enables users to:
 -Learn the truth behind common women's health myths through flip-card interactions.
